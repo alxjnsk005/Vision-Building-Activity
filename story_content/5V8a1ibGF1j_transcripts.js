@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2753,"text":"As I said, I think that Barcelona is a smart community, "},{"start":8192,"text":"as you defined it, and one of the key factors would be the vision. "},{"start":15072,"text":"So, you need a society to have a vision to transform its needs into opportunities, "},{"start":20736,"text":"you need to be ambitious and brave and think long-term. "},{"start":24928,"text":"I would suggest to engage your community "},{"start":28096,"text":"in the definition, to have an open governance "},{"start":32096,"text":"with companies, with citizens, but also very professional and focused. "},{"start":37086,"text":"And communicate it, have a narrative, and rethink it constantly to be sure that you are in the good path."}]}]};
+    window.globalLoadJsAsset('story_content/5V8a1ibGF1j_transcripts.js', JSON.stringify(data));
+})();
